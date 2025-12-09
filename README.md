@@ -1,4 +1,4 @@
-# Edx-own-project
+# edx own project
 This project is the second project of the HarvardX: PH125.9x: Capstone course from the Data Science program.
 
 This submission includes the following files:
